@@ -1,0 +1,30 @@
+[gd_scene load_steps=6 format=3 uid="uid://foadibsd3s3a"]
+
+[ext_resource type="Script" path="res://Scenes/Main Character.gd" id="1_88usq"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wqwov"]
+size = Vector2(65, 86)
+
+[sub_resource type="QuadMesh" id="QuadMesh_pontd"]
+
+[sub_resource type="Gradient" id="Gradient_6ixxb"]
+offsets = PackedFloat32Array(0, 0.0120482)
+
+[sub_resource type="GradientTexture1D" id="GradientTexture1D_7r0s5"]
+gradient = SubResource("Gradient_6ixxb")
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(550, 390)
+script = ExtResource("1_88usq")
+
+[node name="Main Character" type="CharacterBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Main Character"]
+position = Vector2(0.683044, -0.0723457)
+shape = SubResource("RectangleShape2D_wqwov")
+
+[node name="MeshInstance2D" type="MeshInstance2D" parent="Main Character"]
+position = Vector2(0.121826, -0.767566)
+scale = Vector2(66, 86.75)
+mesh = SubResource("QuadMesh_pontd")
+texture = SubResource("GradientTexture1D_7r0s5")
