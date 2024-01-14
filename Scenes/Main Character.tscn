@@ -16,6 +16,8 @@ gradient = SubResource("Gradient_6ixxb")
 [node name="Node2D" type="Node2D"]
 position = Vector2(550, 390)
 script = ExtResource("1_88usq")
+speed = null
+fall_acceleration = null
 
 [node name="Main Character" type="CharacterBody2D" parent="."]
 
