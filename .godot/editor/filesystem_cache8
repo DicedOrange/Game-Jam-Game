@@ -1,10 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1705194366
-icon.svg::CompressedTexture2D::46141824332836352::1705120123::1705120188::1::::<><>::
-::res://Scenes/::1705194177
-Main Character.gd::GDScript::-1::1705194177::0::1::::<>Node2D<>::
-Main Character.tscn::PackedScene::379851286683287952::1705194177::0::1::::<><>::res://Scenes/Main Character.gd
-QBERT tileset.png::CompressedTexture2D::9017108971160332281::1705192530::1705192530::1::::<><>::
-scene 1.tscn::PackedScene::-1::1705194177::0::1::::<><>::
-::res://Scripts/::1705193979
-Main.gd::GDScript::-1::1705193979::0::1::::<>Node2D<>::
+::res://::1705196524
+icon.svg::CompressedTexture2D::46141824332836352::1705196483::1705196349::1::::<><>::
+::res://Scenes/::1705196483
+Main Character.gd::GDScript::-1::1705196349::0::1::::<>Node2D<>::
+Main Character.tscn::PackedScene::379851286683287952::1705196349::0::1::::<><>::res://Scenes/Main Character.gd
+scene 1.tscn::PackedScene::8150612844414160672::1705196483::0::1::::<><>::uid://foadibsd3s3a::::res://Scenes/Main Character.tscn
