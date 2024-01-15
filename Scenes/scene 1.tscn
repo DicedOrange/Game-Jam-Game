@@ -13,7 +13,7 @@ size = Vector2(180, 159)
 gradient = SubResource("Gradient_14yux")
 
 [node name="Node2D" type="Node2D"]
-position = Vector2(1, -3)
+position = Vector2(-1, -1)
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 position = Vector2(483, 137)
@@ -30,4 +30,6 @@ mesh = SubResource("QuadMesh_p0qj3")
 texture = SubResource("GradientTexture1D_5vb58")
 
 [node name="Node2D" parent="." instance=ExtResource("1_orj6v")]
-position = Vector2(326, -85)
+position = Vector2(278, 247)
+speed = null
+fall_acceleration = null
