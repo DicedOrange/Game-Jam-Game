@@ -1,4 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
+<<<<<<< HEAD
 ::res://::1705369553
 icon.svg::CompressedTexture2D::46141824332836352::1705196483::1705196349::1::::<><>::
 Tileset.png::CompressedTexture2D::5316188248651817681::1705360770::1705360770::1::::<><>::
@@ -9,3 +10,12 @@ scene 1.tscn::PackedScene::8150612844414160672::1705368565::0::1::::<><>::uid://
 The guy.gd::GDScript::-1::1705367355::0::1::::<>CharacterBody2D<>::
 The guy.tscn::PackedScene::4606575812987718535::1705368472::0::1::::<><>::res://Scenes/The guy.gd<>uid://buqvyk0xjlgx8::::res://Scenes/Tile_30.png
 Tile_30.png::CompressedTexture2D::3824546081331612111::1705367072::1705367072::1::::<><>::
+=======
+::res://::1705364393
+icon.svg::CompressedTexture2D::46141824332836352::1705029558::1705029570::1::::<><>::
+Tileset.png::CompressedTexture2D::5316188248651817681::1705364393::1705364909::1::::<><>::
+::res://Scenes/::1705364393
+Main Character.gd::GDScript::-1::1705363982::0::1::::<>CharacterBody2D<>::
+Main Character.tscn::PackedScene::379851286683287952::1705363982::0::1::::<><>::res://Scenes/Main Character.gd<>uid://wl7jfvwkut1::::res://icon.svg
+scene 1.tscn::PackedScene::8150612844414160672::1705363982::0::1::::<><>::uid://foadibsd3s3a::::res://Scenes/Main Character.tscn
+>>>>>>> 30f9aeb034969746b97028600a3623c6645967cb
