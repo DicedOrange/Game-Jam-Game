@@ -1,7 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1705351657
+::res://::1705364393
 icon.svg::CompressedTexture2D::46141824332836352::1705029558::1705029570::1::::<><>::
-::res://Scenes/::1705196748
-Main Character.gd::GDScript::-1::1705196748::0::1::::<>Node2D<>::
-Main Character.tscn::PackedScene::379851286683287952::1705196748::0::1::::<><>::res://Scenes/Main Character.gd
-scene 1.tscn::PackedScene::8150612844414160672::1705196421::0::1::::<><>::uid://foadibsd3s3a::::res://Scenes/Main Character.tscn
+Tileset.png::CompressedTexture2D::5316188248651817681::1705364393::1705364909::1::::<><>::
+::res://Scenes/::1705364393
+Main Character.gd::GDScript::-1::1705363982::0::1::::<>CharacterBody2D<>::
+Main Character.tscn::PackedScene::379851286683287952::1705363982::0::1::::<><>::res://Scenes/Main Character.gd<>uid://wl7jfvwkut1::::res://icon.svg
+scene 1.tscn::PackedScene::8150612844414160672::1705363982::0::1::::<><>::uid://foadibsd3s3a::::res://Scenes/Main Character.tscn
