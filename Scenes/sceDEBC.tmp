@@ -717,8 +717,7 @@ sources/1 = SubResource("TileSetAtlasSource_su881")
 position = Vector2(-1, -1)
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
-position = Vector2(745, 329)
-metadata/_edit_group_ = true
+position = Vector2(483, 137)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
 position = Vector2(-1, -1)
@@ -733,6 +732,8 @@ texture = SubResource("GradientTexture1D_5vb58")
 
 [node name="Node2D" parent="." instance=ExtResource("1_orj6v")]
 position = Vector2(278, 247)
+speed = 100
+fall_acceleration = 75
 
 [node name="TileMap" type="TileMap" parent="."]
 position = Vector2(1, 81)

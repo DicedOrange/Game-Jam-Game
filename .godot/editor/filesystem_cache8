@@ -1,10 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1705366985
+::res://::1705369553
 icon.svg::CompressedTexture2D::46141824332836352::1705196483::1705196349::1::::<><>::
 Tileset.png::CompressedTexture2D::5316188248651817681::1705360770::1705360770::1::::<><>::
-::res://Scenes/::1705367072
-Main Character.gd::GDScript::-1::1705356179::0::1::::<>Node2D<>::
-Main Character.tscn::PackedScene::379851286683287952::1705361589::0::1::::<><>::res://Scenes/Main Character.gd
-scene 1.tscn::PackedScene::8150612844414160672::1705362624::0::1::::<><>::uid://foadibsd3s3a::::res://Scenes/Main Character.tscn<>uid://ch0g3xm1eo54p::::res://Tileset.png
-The guy.tscn::PackedScene::4606575812987718535::1705366977::0::1::::<><>::
+::res://Scenes/::1705368565
+Main Character.gd::GDScript::-1::1705367565::0::1::::<>Node2D<>::
+Main Character.tscn::PackedScene::379851286683287952::1705368472::0::1::::<><>::res://Scenes/Main Character.gd
+scene 1.tscn::PackedScene::8150612844414160672::1705368565::0::1::::<><>::uid://foadibsd3s3a::::res://Scenes/Main Character.tscn<>uid://ch0g3xm1eo54p::::res://Tileset.png<>uid://b6vpvo8r4gqol::::res://Scenes/The guy.tscn
+The guy.gd::GDScript::-1::1705367355::0::1::::<>CharacterBody2D<>::
+The guy.tscn::PackedScene::4606575812987718535::1705368472::0::1::::<><>::res://Scenes/The guy.gd<>uid://buqvyk0xjlgx8::::res://Scenes/Tile_30.png
 Tile_30.png::CompressedTexture2D::3824546081331612111::1705367072::1705367072::1::::<><>::
